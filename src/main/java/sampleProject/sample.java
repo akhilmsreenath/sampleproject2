@@ -6,6 +6,8 @@ public class sample {
 		// TODO Auto-generated method stub
 //akhil
 System.out.println("java");
+System.out.println("java2");
+
 	}
 
 }
